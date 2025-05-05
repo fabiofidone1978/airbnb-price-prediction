@@ -1,0 +1,501 @@
+price,accommodates,bedrooms,bathrooms,room_type,neighbourhood
+125.74717559476946,4,2,1.5,Shared room,Neukolln
+89.7785892086235,5,3,1.0,Private room,Kreuzberg
+85.29134337483814,4,1,1.0,Shared room,Prenzlauer Berg
+85.29209177327203,5,3,2.0,Entire home/apt,Neukolln
+215.98857648922603,5,3,2.0,Entire home/apt,Mitte
+144.66824923856888,1,2,1.5,Shared room,Neukolln
+75.24312006963596,2,2,2.0,Private room,Prenzlauer Berg
+128.79257893724855,5,2,2.0,Shared room,Neukolln
+109.95841056258587,5,2,2.0,Entire home/apt,Kreuzberg
+38.63659773962342,3,1,2.0,Shared room,Mitte
+56.84969130750825,2,1,1.0,Shared room,Mitte
+114.24662549392653,3,2,1.5,Entire home/apt,Mitte
+204.60707469934113,2,1,2.0,Shared room,Prenzlauer Berg
+85.67408739836584,3,2,1.0,Shared room,Prenzlauer Berg
+72.32109756217214,5,3,1.0,Private room,Mitte
+102.56030165888663,5,3,1.0,Private room,Neukolln
+70.2113792287239,1,3,2.0,Entire home/apt,Mitte
+82.70965524556755,3,2,2.0,Entire home/apt,Neukolln
+95.97209915761059,4,3,1.5,Entire home/apt,Neukolln
+55.60549219375534,1,1,2.0,Private room,Prenzlauer Berg
+148.80240376852555,3,3,2.0,Entire home/apt,Neukolln
+51.4072578511616,3,3,1.0,Entire home/apt,Mitte
+48.91173775338693,1,3,1.5,Entire home/apt,Prenzlauer Berg
+107.3580167155254,5,1,2.0,Private room,Kreuzberg
+142.53415231916202,3,2,2.0,Shared room,Kreuzberg
+105.91342297428282,5,1,1.0,Entire home/apt,Prenzlauer Berg
+90.87116708338402,1,2,1.0,Shared room,Mitte
+82.29525739933896,5,2,2.0,Entire home/apt,Kreuzberg
+75.59639322746602,2,3,1.5,Shared room,Kreuzberg
+167.511972020778,4,2,1.5,Private room,Neukolln
+114.84175757559689,3,1,1.0,Private room,Neukolln
+78.69275254634616,4,1,1.0,Entire home/apt,Mitte
+67.46426117246229,5,2,2.0,Shared room,Prenzlauer Berg
+133.50475826831496,3,3,1.0,Private room,Mitte
+165.3376669360887,5,3,2.0,Entire home/apt,Prenzlauer Berg
+157.24839127211555,2,1,1.5,Entire home/apt,Kreuzberg
+62.041881928453876,1,3,1.5,Private room,Neukolln
+81.93991205150496,3,2,2.0,Private room,Mitte
+74.85739870080394,2,2,1.0,Entire home/apt,Mitte
+87.53152463143954,2,1,1.5,Shared room,Prenzlauer Berg
+148.04354093453026,3,2,1.0,Shared room,Prenzlauer Berg
+194.09049828828842,5,1,1.5,Shared room,Mitte
+117.13948561233994,2,2,2.0,Entire home/apt,Prenzlauer Berg
+68.59378492368869,4,1,2.0,Private room,Mitte
+94.83367859555617,2,3,2.0,Entire home/apt,Mitte
+214.50158140294337,5,2,1.5,Private room,Mitte
+101.26354406215411,5,2,1.0,Shared room,Kreuzberg
+82.38738810302308,4,1,1.0,Shared room,Prenzlauer Berg
+85.95410447205114,2,1,1.0,Private room,Neukolln
+116.86053456192049,5,2,1.5,Private room,Neukolln
+63.02526938021051,3,1,1.5,Entire home/apt,Prenzlauer Berg
+73.9678847249345,1,2,1.5,Shared room,Mitte
+155.99089574297003,1,3,1.5,Entire home/apt,Neukolln
+115.12510461292257,1,1,1.5,Entire home/apt,Neukolln
+101.8064336191552,2,2,1.0,Entire home/apt,Prenzlauer Berg
+160.24054258716137,4,3,1.5,Shared room,Neukolln
+66.58743135126102,5,3,1.5,Entire home/apt,Mitte
+81.13739668923921,3,2,1.0,Entire home/apt,Prenzlauer Berg
+113.15721219125577,3,1,1.5,Entire home/apt,Mitte
+111.07658362389452,2,2,1.0,Entire home/apt,Neukolln
+47.03382297193652,1,3,1.0,Entire home/apt,Neukolln
+77.2184565442046,2,2,2.0,Entire home/apt,Mitte
+88.67993481446425,4,1,2.0,Shared room,Kreuzberg
+119.78422168127071,4,3,2.0,Entire home/apt,Neukolln
+110.87054566070398,5,2,2.0,Private room,Kreuzberg
+92.89571856005236,5,1,1.5,Entire home/apt,Neukolln
+38.56420327624002,4,3,2.0,Entire home/apt,Kreuzberg
+95.30684777805843,4,1,1.0,Shared room,Kreuzberg
+99.82556111140893,4,3,1.5,Shared room,Kreuzberg
+321.91991155131484,2,2,2.0,Private room,Mitte
+87.21839090522533,4,1,1.0,Private room,Kreuzberg
+113.4823808985599,3,3,1.5,Shared room,Kreuzberg
+174.8085103552386,1,1,1.5,Shared room,Kreuzberg
+143.52290785889443,4,1,2.0,Entire home/apt,Neukolln
+198.51218322445916,1,2,1.5,Shared room,Kreuzberg
+47.31648877630746,2,1,1.0,Private room,Neukolln
+57.482475766413025,1,3,1.5,Entire home/apt,Kreuzberg
+71.49068177768908,2,3,1.0,Private room,Kreuzberg
+44.37268779409019,3,3,1.5,Entire home/apt,Mitte
+100.2702917443259,2,3,2.0,Shared room,Neukolln
+59.56710842282068,2,2,1.0,Private room,Kreuzberg
+213.0083498672836,5,1,1.5,Entire home/apt,Neukolln
+63.84803521781157,4,2,1.5,Entire home/apt,Neukolln
+81.38012871478558,4,1,1.5,Shared room,Prenzlauer Berg
+148.1184863881701,3,1,1.0,Shared room,Mitte
+51.16552227869974,3,1,1.0,Shared room,Mitte
+43.34332659639965,4,2,1.0,Private room,Mitte
+106.6628697511045,5,1,2.0,Entire home/apt,Prenzlauer Berg
+111.00761942999013,4,2,2.0,Shared room,Prenzlauer Berg
+145.73818559295322,5,3,1.0,Private room,Mitte
+127.41508880110992,3,3,1.5,Private room,Prenzlauer Berg
+113.20894682281157,1,1,2.0,Private room,Prenzlauer Berg
+67.35525667816906,3,2,1.0,Shared room,Prenzlauer Berg
+109.39379646547776,3,3,1.5,Shared room,Mitte
+112.9749704064281,2,2,2.0,Entire home/apt,Mitte
+66.1633717123407,2,2,1.5,Entire home/apt,Mitte
+246.88302079113708,2,1,1.5,Shared room,Prenzlauer Berg
+124.25094283072438,2,3,1.5,Private room,Mitte
+57.93846981881586,5,1,1.5,Private room,Prenzlauer Berg
+146.13111620809048,4,1,2.0,Private room,Kreuzberg
+159.81580561615598,1,3,2.0,Entire home/apt,Prenzlauer Berg
+120.33513395045662,3,3,2.0,Private room,Neukolln
+84.78079352555721,5,2,1.0,Entire home/apt,Mitte
+64.8274138418484,1,3,2.0,Entire home/apt,Mitte
+92.76388785408392,5,2,1.5,Private room,Neukolln
+115.88103782889208,5,2,2.0,Private room,Prenzlauer Berg
+97.34033798766596,3,2,1.5,Shared room,Kreuzberg
+203.4210886795046,4,3,1.0,Shared room,Neukolln
+134.47651343388225,2,1,1.5,Private room,Neukolln
+61.47680217511727,4,2,1.5,Entire home/apt,Prenzlauer Berg
+55.24750619316895,3,1,1.5,Entire home/apt,Mitte
+124.81404460069166,3,1,1.0,Entire home/apt,Prenzlauer Berg
+85.78010103877403,3,3,2.0,Entire home/apt,Neukolln
+140.7524858475744,1,1,2.0,Entire home/apt,Neukolln
+124.21222514345969,4,1,1.0,Shared room,Mitte
+92.97607517705042,4,3,1.5,Private room,Mitte
+61.802427242402274,5,2,2.0,Shared room,Mitte
+45.04798898746088,5,1,1.0,Entire home/apt,Prenzlauer Berg
+108.34482966791158,5,3,2.0,Entire home/apt,Mitte
+50.81006134476129,3,1,1.0,Entire home/apt,Neukolln
+60.648165176227884,4,1,1.5,Entire home/apt,Neukolln
+104.92425119946591,3,2,2.0,Private room,Kreuzberg
+99.71795502077168,1,1,1.0,Entire home/apt,Prenzlauer Berg
+53.34887825893928,5,3,2.0,Private room,Kreuzberg
+169.69306254094215,3,1,2.0,Entire home/apt,Neukolln
+167.23433721793634,3,2,2.0,Private room,Kreuzberg
+126.95656833503458,1,2,2.0,Shared room,Neukolln
+126.87377816391923,2,3,1.0,Entire home/apt,Kreuzberg
+126.95739156522926,4,2,1.5,Private room,Mitte
+159.06239787428254,2,1,1.0,Shared room,Kreuzberg
+136.27901443312993,5,2,1.0,Entire home/apt,Mitte
+64.19191242990145,3,3,1.0,Entire home/apt,Mitte
+85.16993922817281,1,2,1.5,Entire home/apt,Prenzlauer Berg
+301.8612879289795,1,2,2.0,Private room,Mitte
+39.25937276285081,4,2,2.0,Private room,Mitte
+75.1451883787783,2,3,2.0,Shared room,Kreuzberg
+170.19250224113185,4,2,1.5,Private room,Neukolln
+66.13067304943347,3,2,2.0,Private room,Prenzlauer Berg
+138.27917153396893,4,1,1.5,Entire home/apt,Mitte
+99.04778553587421,1,3,2.0,Entire home/apt,Prenzlauer Berg
+68.3617966811857,1,2,2.0,Entire home/apt,Kreuzberg
+37.24044868484634,5,3,1.0,Entire home/apt,Mitte
+106.76610079741872,5,2,1.5,Entire home/apt,Kreuzberg
+63.54437285931377,3,2,1.0,Entire home/apt,Prenzlauer Berg
+90.9154950109923,2,2,1.0,Entire home/apt,Kreuzberg
+126.29203879703104,4,1,1.0,Shared room,Prenzlauer Berg
+152.11249193388312,3,1,1.5,Shared room,Kreuzberg
+75.02529423096095,5,1,1.5,Shared room,Prenzlauer Berg
+68.30006461296671,4,3,2.0,Shared room,Neukolln
+50.45224311713187,5,3,1.0,Entire home/apt,Kreuzberg
+156.18516289585668,4,1,2.0,Shared room,Kreuzberg
+277.2690390203444,2,3,1.0,Entire home/apt,Neukolln
+165.4590553279867,3,2,1.5,Shared room,Neukolln
+185.82404210570803,4,2,1.5,Private room,Kreuzberg
+66.39336382089263,1,2,1.5,Shared room,Neukolln
+122.31206660222693,1,1,1.0,Shared room,Mitte
+145.2027799584311,4,3,1.5,Entire home/apt,Prenzlauer Berg
+56.52554389725285,4,1,1.0,Shared room,Prenzlauer Berg
+221.48608585063846,4,3,2.0,Private room,Prenzlauer Berg
+46.72853734403934,1,2,1.0,Entire home/apt,Mitte
+202.22628063583136,1,1,2.0,Entire home/apt,Neukolln
+46.61128510787684,4,3,1.0,Shared room,Neukolln
+57.741506397791,5,3,2.0,Entire home/apt,Kreuzberg
+123.49001972545351,5,2,1.5,Entire home/apt,Neukolln
+100.33658553087784,2,1,2.0,Entire home/apt,Kreuzberg
+78.68306532708044,3,1,1.5,Entire home/apt,Mitte
+216.68575221559362,5,1,1.5,Entire home/apt,Prenzlauer Berg
+50.99890752408231,1,2,2.0,Entire home/apt,Prenzlauer Berg
+89.13168802238638,5,1,1.0,Private room,Prenzlauer Berg
+131.89580361995618,2,2,1.0,Shared room,Neukolln
+112.25523640820127,2,2,1.0,Private room,Kreuzberg
+69.40358284807837,3,2,1.0,Entire home/apt,Kreuzberg
+70.62842335861747,5,3,1.0,Entire home/apt,Mitte
+150.86799689035092,1,1,1.5,Shared room,Neukolln
+154.74765275463082,1,1,1.0,Private room,Mitte
+113.82795331315427,4,2,1.5,Shared room,Kreuzberg
+62.36687748662092,1,2,1.5,Private room,Kreuzberg
+71.72135567646755,3,1,1.5,Entire home/apt,Prenzlauer Berg
+95.59312753854111,3,2,2.0,Shared room,Neukolln
+102.91082295672891,1,1,2.0,Shared room,Kreuzberg
+129.09744473912355,1,3,1.5,Entire home/apt,Prenzlauer Berg
+86.76108890572718,4,2,2.0,Shared room,Neukolln
+149.02048930008885,1,1,1.0,Private room,Mitte
+148.11791314698053,4,2,1.0,Private room,Neukolln
+189.35814732314097,4,1,1.5,Private room,Neukolln
+97.7571931694783,1,1,1.0,Private room,Kreuzberg
+114.84675368106556,2,2,1.5,Entire home/apt,Kreuzberg
+90.16940826456393,2,3,1.5,Shared room,Neukolln
+62.71178730067996,4,1,1.0,Private room,Kreuzberg
+273.6038487934052,1,1,2.0,Entire home/apt,Kreuzberg
+176.1366691203616,2,1,1.0,Shared room,Kreuzberg
+146.47371713807533,1,3,1.0,Shared room,Prenzlauer Berg
+96.0362437076876,1,3,1.5,Entire home/apt,Prenzlauer Berg
+60.23792416843842,1,2,1.5,Entire home/apt,Neukolln
+160.76375638212812,5,3,1.5,Private room,Kreuzberg
+89.35735162811352,1,2,1.5,Shared room,Prenzlauer Berg
+120.34465270889258,5,2,2.0,Shared room,Neukolln
+71.58761808225893,4,3,2.0,Entire home/apt,Kreuzberg
+110.13367006579946,2,2,2.0,Shared room,Mitte
+73.7652825048098,2,3,1.5,Private room,Kreuzberg
+75.18078079066811,2,2,1.5,Shared room,Kreuzberg
+109.38197513000706,2,3,1.5,Entire home/apt,Prenzlauer Berg
+46.36261900375634,2,3,2.0,Entire home/apt,Neukolln
+47.19876314432483,2,2,1.5,Private room,Neukolln
+66.02297751611687,2,1,1.0,Private room,Prenzlauer Berg
+86.24060618204236,4,2,1.0,Shared room,Kreuzberg
+151.4877165154515,1,3,1.5,Shared room,Mitte
+88.74385265340013,3,1,1.0,Entire home/apt,Kreuzberg
+95.71521496958033,5,2,1.0,Private room,Kreuzberg
+82.84378173525675,3,2,2.0,Private room,Mitte
+114.75898118954606,3,2,1.5,Private room,Prenzlauer Berg
+62.42318234906898,1,1,1.5,Shared room,Neukolln
+91.20655736004332,1,3,2.0,Private room,Prenzlauer Berg
+119.63699170290312,1,2,1.0,Entire home/apt,Prenzlauer Berg
+108.92123232930415,2,2,1.0,Entire home/apt,Kreuzberg
+97.31905198570331,4,2,1.5,Shared room,Neukolln
+97.94039350185265,2,2,1.0,Shared room,Neukolln
+125.8316130724709,4,2,2.0,Private room,Prenzlauer Berg
+281.1279678751579,4,3,2.0,Shared room,Mitte
+64.37347333408675,3,3,1.5,Entire home/apt,Prenzlauer Berg
+285.73409307140224,3,2,2.0,Private room,Mitte
+63.03158445317144,4,1,2.0,Entire home/apt,Neukolln
+36.14053981115924,4,3,1.5,Private room,Prenzlauer Berg
+73.03560037812633,2,1,2.0,Shared room,Kreuzberg
+115.91797043341403,2,3,2.0,Private room,Prenzlauer Berg
+248.06387263920817,3,2,2.0,Private room,Neukolln
+60.20256673408595,1,3,1.0,Entire home/apt,Kreuzberg
+125.43232382411139,4,2,1.5,Entire home/apt,Kreuzberg
+49.08959778599757,2,3,1.5,Private room,Mitte
+243.01558753200837,3,2,1.5,Shared room,Kreuzberg
+178.00319244042208,2,2,1.0,Shared room,Kreuzberg
+75.25503439427243,4,2,1.0,Entire home/apt,Prenzlauer Berg
+193.86771164313268,4,2,1.5,Shared room,Neukolln
+90.92505509244828,5,1,1.0,Entire home/apt,Mitte
+183.19282450678696,1,2,1.5,Shared room,Prenzlauer Berg
+96.937816939694,5,1,1.0,Private room,Kreuzberg
+99.12228210711177,3,1,2.0,Entire home/apt,Kreuzberg
+76.02155517209711,2,2,2.0,Entire home/apt,Mitte
+134.28034165906251,3,1,1.5,Private room,Neukolln
+103.07365122265239,4,3,1.0,Entire home/apt,Mitte
+126.91703779284929,5,2,1.0,Shared room,Prenzlauer Berg
+44.6821495397189,5,1,2.0,Shared room,Mitte
+186.80522962378063,5,2,2.0,Entire home/apt,Kreuzberg
+213.13164637246499,3,2,1.0,Shared room,Prenzlauer Berg
+102.82026355324673,4,2,1.0,Entire home/apt,Kreuzberg
+269.7482656761957,2,1,1.0,Private room,Neukolln
+234.6016662564458,2,3,1.0,Entire home/apt,Kreuzberg
+135.85567366131983,3,3,1.0,Private room,Kreuzberg
+195.25978528145035,5,1,1.0,Shared room,Mitte
+167.62096993025992,1,2,1.5,Private room,Kreuzberg
+40.84518803614772,3,1,1.0,Shared room,Prenzlauer Berg
+83.69985275783786,3,1,2.0,Entire home/apt,Prenzlauer Berg
+141.00923094238948,4,1,1.5,Shared room,Neukolln
+221.09029193514178,2,2,1.0,Entire home/apt,Prenzlauer Berg
+47.777756732574105,3,1,2.0,Entire home/apt,Mitte
+41.71956287926312,3,2,1.5,Private room,Neukolln
+93.83913977027589,5,1,2.0,Private room,Prenzlauer Berg
+36.75451381583616,5,3,1.0,Private room,Mitte
+92.16961376920074,1,1,1.0,Private room,Prenzlauer Berg
+117.44618067883744,4,1,1.0,Shared room,Prenzlauer Berg
+58.95703182091965,1,3,1.0,Shared room,Kreuzberg
+93.48203167876667,5,2,1.5,Shared room,Prenzlauer Berg
+159.15390704865547,2,2,1.5,Entire home/apt,Prenzlauer Berg
+72.86216308004342,5,1,2.0,Shared room,Mitte
+63.53287190802902,4,3,1.0,Shared room,Mitte
+91.29097562162855,5,2,2.0,Shared room,Kreuzberg
+56.223468149578366,4,1,1.5,Private room,Prenzlauer Berg
+258.29639998128647,4,3,1.0,Shared room,Kreuzberg
+98.50429922258462,4,2,1.0,Entire home/apt,Prenzlauer Berg
+66.66806029133608,4,2,1.5,Private room,Neukolln
+108.33828366246641,4,3,1.5,Entire home/apt,Neukolln
+91.03267923220051,2,3,1.5,Shared room,Kreuzberg
+85.8944984077823,1,3,1.5,Private room,Kreuzberg
+72.8527957879046,3,3,1.5,Entire home/apt,Kreuzberg
+71.1333363966096,1,1,1.0,Shared room,Mitte
+45.041407549686205,4,3,1.5,Entire home/apt,Mitte
+195.09362731091247,2,2,1.0,Entire home/apt,Mitte
+131.09211641406262,5,2,1.0,Entire home/apt,Kreuzberg
+114.0658462671592,2,1,1.5,Shared room,Prenzlauer Berg
+90.2768008400419,4,2,1.5,Shared room,Neukolln
+58.49567502643488,2,2,1.0,Entire home/apt,Kreuzberg
+64.73990927927005,2,3,1.5,Private room,Mitte
+46.89110495713396,4,2,1.5,Private room,Mitte
+68.54168557578534,2,1,1.5,Shared room,Kreuzberg
+54.96057414876397,3,3,2.0,Shared room,Kreuzberg
+227.25386149702032,3,3,1.0,Shared room,Mitte
+153.34460010343088,2,1,2.0,Shared room,Prenzlauer Berg
+100.7422917427389,5,3,1.5,Shared room,Mitte
+61.34776694063064,4,3,2.0,Private room,Mitte
+56.16795534043408,3,1,1.5,Shared room,Kreuzberg
+87.3127572112984,5,3,2.0,Entire home/apt,Prenzlauer Berg
+156.8433731060148,2,1,1.5,Entire home/apt,Mitte
+47.38560779985933,5,1,2.0,Private room,Mitte
+130.16881543904185,1,2,2.0,Entire home/apt,Neukolln
+68.39602393267404,3,2,2.0,Private room,Kreuzberg
+74.54285588264842,2,3,1.0,Private room,Neukolln
+99.20383516372397,4,3,2.0,Entire home/apt,Neukolln
+62.304551336775354,2,1,1.0,Shared room,Mitte
+85.07306878583519,4,3,1.5,Entire home/apt,Kreuzberg
+59.924737569691885,2,1,2.0,Entire home/apt,Prenzlauer Berg
+71.09767627413497,5,1,1.5,Private room,Mitte
+143.77775209565547,5,3,1.5,Entire home/apt,Prenzlauer Berg
+101.92884833828778,5,1,2.0,Private room,Prenzlauer Berg
+143.48271303613257,1,2,1.0,Shared room,Kreuzberg
+67.96932632128909,4,3,2.0,Shared room,Neukolln
+130.68654841946827,5,2,1.5,Shared room,Kreuzberg
+42.992021899475134,1,3,1.5,Entire home/apt,Prenzlauer Berg
+99.18071904780705,4,1,2.0,Private room,Mitte
+135.37962023389906,2,3,1.0,Shared room,Prenzlauer Berg
+42.411122219694505,1,2,1.0,Private room,Mitte
+68.35337465608362,3,1,1.5,Private room,Mitte
+99.14440084887256,1,3,1.5,Shared room,Kreuzberg
+163.30242464383883,1,3,1.0,Shared room,Prenzlauer Berg
+71.09316774455824,4,3,2.0,Private room,Neukolln
+127.93885759252203,2,2,1.5,Shared room,Prenzlauer Berg
+202.25499585895537,3,2,1.0,Private room,Prenzlauer Berg
+131.12723356636647,5,3,1.5,Private room,Neukolln
+86.72154087710041,5,1,2.0,Shared room,Kreuzberg
+117.72788255021442,1,1,1.0,Entire home/apt,Prenzlauer Berg
+70.0881376118605,4,2,1.5,Shared room,Prenzlauer Berg
+101.2388596418128,4,1,2.0,Entire home/apt,Mitte
+88.94633789338714,5,2,1.5,Private room,Prenzlauer Berg
+115.66422324160715,3,3,2.0,Private room,Neukolln
+77.5791518613143,2,2,2.0,Entire home/apt,Mitte
+119.18108381230894,3,2,1.0,Private room,Kreuzberg
+77.20454167270148,2,3,2.0,Entire home/apt,Mitte
+152.52806290913952,5,1,1.5,Entire home/apt,Neukolln
+81.20833515128272,2,2,2.0,Private room,Neukolln
+37.088915629620544,4,2,2.0,Entire home/apt,Mitte
+56.98353886302236,1,3,1.0,Shared room,Kreuzberg
+97.62231800421085,1,1,2.0,Shared room,Mitte
+226.11679715041316,5,2,2.0,Private room,Kreuzberg
+149.32391407086013,4,3,1.5,Private room,Mitte
+35.266787277541226,3,2,1.0,Entire home/apt,Neukolln
+45.75289528428496,4,3,1.0,Entire home/apt,Prenzlauer Berg
+174.88918026529853,1,1,1.0,Entire home/apt,Prenzlauer Berg
+134.9729797663225,1,1,2.0,Entire home/apt,Kreuzberg
+296.1073120236569,4,1,1.0,Shared room,Kreuzberg
+75.64763789139394,4,1,2.0,Shared room,Kreuzberg
+61.70634567300469,1,2,2.0,Private room,Neukolln
+100.43104157576253,3,2,1.5,Entire home/apt,Mitte
+74.91756977699937,5,1,1.5,Entire home/apt,Neukolln
+165.87988731822148,5,1,1.5,Private room,Prenzlauer Berg
+73.64551768524917,4,1,1.5,Entire home/apt,Kreuzberg
+83.67892881065386,5,2,1.5,Entire home/apt,Mitte
+57.82058813937688,1,1,2.0,Entire home/apt,Prenzlauer Berg
+143.89559709777143,1,1,2.0,Entire home/apt,Prenzlauer Berg
+59.48486434930139,4,1,1.0,Entire home/apt,Prenzlauer Berg
+120.37649370352838,4,3,2.0,Private room,Neukolln
+248.13499558275967,4,1,2.0,Entire home/apt,Kreuzberg
+40.54060582514567,3,3,1.5,Private room,Prenzlauer Berg
+207.60646725392473,5,3,2.0,Entire home/apt,Kreuzberg
+112.19446601657947,4,1,1.5,Shared room,Neukolln
+53.8002901808549,2,3,1.0,Shared room,Prenzlauer Berg
+102.47685483454718,2,1,1.0,Shared room,Neukolln
+141.60695167879538,1,2,2.0,Shared room,Neukolln
+63.6112656237062,5,2,1.0,Private room,Kreuzberg
+124.09721572902568,4,2,2.0,Private room,Prenzlauer Berg
+217.4222938018042,2,2,1.0,Entire home/apt,Neukolln
+73.59884066389947,5,3,1.5,Shared room,Prenzlauer Berg
+57.50912846859078,1,1,1.5,Private room,Kreuzberg
+90.37973879427904,3,1,1.5,Entire home/apt,Neukolln
+99.58589088109258,5,1,1.5,Entire home/apt,Kreuzberg
+170.63719632427177,5,2,2.0,Private room,Prenzlauer Berg
+88.83553350676068,3,2,1.0,Shared room,Prenzlauer Berg
+76.96305497954451,5,1,2.0,Entire home/apt,Kreuzberg
+56.87016347598484,1,2,1.5,Shared room,Mitte
+42.52364896413715,1,1,2.0,Shared room,Neukolln
+49.776816912157535,3,1,1.0,Shared room,Prenzlauer Berg
+49.659495267886115,4,1,2.0,Entire home/apt,Prenzlauer Berg
+84.1398547902937,2,1,1.0,Shared room,Neukolln
+45.27316857226906,4,1,2.0,Entire home/apt,Kreuzberg
+93.90201390875995,5,1,1.0,Shared room,Kreuzberg
+244.98176474922377,2,1,1.0,Entire home/apt,Kreuzberg
+173.4049615219002,3,2,1.5,Shared room,Mitte
+83.72301995139509,3,1,1.0,Private room,Mitte
+337.4058389619157,2,1,1.5,Shared room,Prenzlauer Berg
+99.77168939890376,1,2,1.5,Shared room,Kreuzberg
+107.42780654298831,2,2,1.5,Entire home/apt,Neukolln
+89.4863404030632,5,2,2.0,Entire home/apt,Prenzlauer Berg
+94.98955843363574,1,1,2.0,Shared room,Neukolln
+72.35764743312338,3,3,2.0,Private room,Prenzlauer Berg
+84.34752199470903,2,3,2.0,Private room,Mitte
+208.3964580740655,4,2,1.0,Entire home/apt,Prenzlauer Berg
+183.93759078404352,4,3,1.0,Private room,Mitte
+36.68797776126428,5,2,2.0,Shared room,Prenzlauer Berg
+47.19776032781101,4,1,1.0,Entire home/apt,Kreuzberg
+64.02702403171179,2,3,1.0,Shared room,Neukolln
+157.59819671019653,2,1,1.5,Entire home/apt,Kreuzberg
+186.24678954873897,4,3,1.5,Entire home/apt,Prenzlauer Berg
+141.30910470641595,2,1,1.5,Entire home/apt,Prenzlauer Berg
+53.70782342999324,5,3,1.5,Entire home/apt,Prenzlauer Berg
+73.08324401588199,1,1,1.0,Private room,Mitte
+125.26551835858979,5,1,2.0,Shared room,Neukolln
+85.01047207746277,5,3,1.0,Shared room,Neukolln
+79.12378324254742,2,1,1.0,Shared room,Prenzlauer Berg
+79.7097693030418,1,1,1.0,Entire home/apt,Prenzlauer Berg
+176.24291251587726,2,1,1.5,Private room,Mitte
+132.2239575018931,3,3,1.5,Shared room,Kreuzberg
+81.92530707218205,2,3,1.5,Private room,Kreuzberg
+114.96608019333969,2,1,2.0,Entire home/apt,Neukolln
+50.682603240849254,2,1,1.0,Shared room,Mitte
+73.15265443804044,1,3,2.0,Private room,Prenzlauer Berg
+166.8342178958977,2,3,1.5,Entire home/apt,Neukolln
+44.26220730800089,1,1,2.0,Private room,Mitte
+133.11292105705238,4,1,1.0,Shared room,Kreuzberg
+36.59322425100597,3,1,1.0,Shared room,Mitte
+228.24688606813913,1,2,1.5,Entire home/apt,Kreuzberg
+72.3006423148305,4,3,1.5,Entire home/apt,Mitte
+119.47506390464406,1,2,2.0,Entire home/apt,Neukolln
+102.74104017442946,1,3,1.5,Private room,Kreuzberg
+104.73332091869037,3,3,1.5,Private room,Neukolln
+113.8581719489794,5,3,1.0,Private room,Neukolln
+41.60993914001821,5,3,1.5,Entire home/apt,Kreuzberg
+105.88511105012617,1,3,1.5,Shared room,Kreuzberg
+87.60999287595301,2,3,1.0,Shared room,Prenzlauer Berg
+72.49768002906464,4,3,1.0,Private room,Prenzlauer Berg
+64.01093069215221,2,2,2.0,Private room,Prenzlauer Berg
+107.30009707935386,2,1,1.5,Shared room,Neukolln
+57.83186330190102,1,1,1.0,Shared room,Neukolln
+165.18506446597388,1,2,2.0,Private room,Prenzlauer Berg
+124.17060254620394,1,2,2.0,Private room,Neukolln
+110.78126104046433,1,2,1.5,Shared room,Neukolln
+161.37735231547606,5,2,1.5,Entire home/apt,Kreuzberg
+39.62970368981593,1,3,2.0,Private room,Kreuzberg
+50.01628964468072,5,1,1.0,Shared room,Neukolln
+127.13059374876732,5,3,2.0,Shared room,Prenzlauer Berg
+65.7734846220518,1,1,1.5,Shared room,Mitte
+69.81165540168561,3,1,1.0,Shared room,Prenzlauer Berg
+47.21556636389218,4,2,1.0,Entire home/apt,Mitte
+57.90402483966621,2,3,2.0,Shared room,Prenzlauer Berg
+167.22094603269764,5,2,1.5,Private room,Kreuzberg
+125.52409685234771,4,3,2.0,Entire home/apt,Neukolln
+106.67433485488498,3,1,2.0,Shared room,Neukolln
+71.14008897252707,2,2,2.0,Entire home/apt,Kreuzberg
+103.16779594798244,2,2,1.0,Private room,Mitte
+175.36791641586626,5,1,1.0,Shared room,Mitte
+66.54856082109546,1,1,1.5,Private room,Mitte
+94.87614222680409,3,1,1.5,Shared room,Kreuzberg
+236.29229155525798,5,2,2.0,Shared room,Mitte
+140.30048876601938,3,3,2.0,Shared room,Kreuzberg
+71.63505574064014,1,2,2.0,Shared room,Prenzlauer Berg
+134.20799243062913,1,3,1.5,Shared room,Prenzlauer Berg
+44.012547765143246,5,2,1.0,Entire home/apt,Kreuzberg
+92.89633882016625,1,2,1.0,Shared room,Neukolln
+134.1288711654728,4,1,2.0,Shared room,Prenzlauer Berg
+118.29040481930647,2,3,2.0,Entire home/apt,Mitte
+133.42926825774182,5,2,2.0,Entire home/apt,Kreuzberg
+149.66807085498746,3,2,2.0,Entire home/apt,Mitte
+123.3010103665103,4,1,1.5,Entire home/apt,Mitte
+121.40400913024001,5,1,1.0,Entire home/apt,Neukolln
+107.9770153133448,1,3,2.0,Entire home/apt,Mitte
+54.97376022925288,1,2,1.5,Shared room,Neukolln
+167.18009457860285,1,3,2.0,Shared room,Prenzlauer Berg
+94.6448377539732,1,2,2.0,Private room,Kreuzberg
+138.4150082046924,3,3,1.0,Shared room,Mitte
+157.80571357492278,4,1,2.0,Shared room,Kreuzberg
+73.411226178963,2,2,1.0,Entire home/apt,Mitte
+76.65240718897655,3,3,1.0,Entire home/apt,Kreuzberg
+81.94167203735358,3,1,1.0,Shared room,Mitte
+184.81169574181058,2,1,1.5,Private room,Mitte
+60.31869069964613,2,3,1.5,Entire home/apt,Mitte
+202.781505751667,1,2,1.0,Shared room,Mitte
+107.34054285194665,3,2,2.0,Shared room,Mitte
+111.4298160284762,5,1,1.0,Private room,Mitte
+153.96755734885207,2,2,2.0,Private room,Mitte
+101.00670831957001,2,2,1.0,Entire home/apt,Mitte
+168.2125423023963,4,2,2.0,Private room,Mitte
+73.36299340161887,5,1,1.5,Shared room,Kreuzberg
+199.14089868784518,5,3,2.0,Shared room,Neukolln
+76.20584891672078,2,2,1.0,Private room,Mitte
+203.4064770274477,1,1,1.5,Private room,Neukolln
+77.23727231949272,4,1,2.0,Private room,Mitte
+83.14839713210054,5,3,2.0,Private room,Mitte
+57.09517788584933,2,2,2.0,Entire home/apt,Kreuzberg
+64.35853349659396,5,2,2.0,Private room,Prenzlauer Berg
+94.89153945173278,4,3,2.0,Entire home/apt,Prenzlauer Berg
+109.50762796460532,4,3,1.5,Shared room,Kreuzberg
+161.50981771136216,3,1,1.5,Private room,Neukolln
+86.21563530779204,2,1,1.5,Entire home/apt,Prenzlauer Berg
+118.42822450577897,4,3,1.5,Private room,Kreuzberg
+105.6369318251422,3,2,1.0,Shared room,Kreuzberg
+125.46722839347935,3,1,1.5,Shared room,Prenzlauer Berg
+68.85909811140436,5,1,2.0,Shared room,Neukolln
+72.83372889676198,5,2,2.0,Private room,Kreuzberg
+68.87181418557184,3,1,1.5,Private room,Mitte
+178.84636846514275,5,2,2.0,Entire home/apt,Neukolln
+200.2148910592598,4,2,1.5,Shared room,Neukolln
+71.32345170477805,1,2,2.0,Private room,Prenzlauer Berg
+72.02274696886667,4,3,1.0,Shared room,Prenzlauer Berg
+134.9834606022469,3,3,1.0,Shared room,Mitte
+212.76252346987135,3,3,1.5,Entire home/apt,Kreuzberg
+239.0543850405852,4,2,1.5,Entire home/apt,Prenzlauer Berg
+69.76513359627128,5,2,1.5,Entire home/apt,Prenzlauer Berg
+78.58313575376103,5,3,2.0,Entire home/apt,Neukolln
+112.54508643897688,3,1,1.5,Shared room,Prenzlauer Berg
+115.47235869285173,2,2,1.0,Entire home/apt,Prenzlauer Berg
+87.94026433551079,5,1,2.0,Entire home/apt,Prenzlauer Berg
+63.35601854164987,4,1,1.5,Entire home/apt,Prenzlauer Berg
+94.97058737702935,5,2,2.0,Entire home/apt,Neukolln
